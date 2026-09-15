@@ -54,7 +54,7 @@ except FileNotFoundError:
   )
 
 st.markdown("""
-Evalúa el **tono**, la **objetividad** y la **polaridad** de tu ensayo académico en un entorno visualmente descanso de noche.
+Evalúa el **tono**, la **objetividad** y la **polaridad** de tu ensayo académico mientras aprendes a escribir en inglés.
 """)
 
 # Barra lateral en modo oscuro
