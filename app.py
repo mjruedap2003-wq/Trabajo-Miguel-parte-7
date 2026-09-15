@@ -486,7 +486,7 @@ def crear_visualizaciones(resultados):
 
 # Lógica principal
 if modo == "Texto directo":
-  st.subheader("Ingresa el texto de tu ensayo, puede ser en español o directamente en inglés")
+  st.subheader("Ingresa el texto de tu ensayo (en español por favor)")
   texto = st.text_area(
       "",
       height=200,
