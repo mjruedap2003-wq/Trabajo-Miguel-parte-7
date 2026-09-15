@@ -40,7 +40,7 @@ st.title("🎓 Auditor de Ensayos en Inglés")
 
 # Insertar imagen bajo el título
 try:
-  imagen_cabecera = Image.open("ensayo_banner.jpg")  # Nombre de tu imagen
+  imagen_cabecera = Image.open("Profesor_ingles.jpg")  # Nombre de tu imagen
   st.image(
       imagen_cabecera,
       use_column_width=True,
