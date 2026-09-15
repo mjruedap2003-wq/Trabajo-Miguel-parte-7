@@ -36,7 +36,7 @@ st.markdown(
 )
 
 # --- CABECERA Y TÍTULO ---
-st.title("🎓 Auditor de Ensayos en Inglés")
+st.title("🎓 Auditor de Ensayos en Inglés para amigos")
 
 # Insertar imagen bajo el título
 try:
@@ -486,7 +486,7 @@ def crear_visualizaciones(resultados):
 
 # Lógica principal
 if modo == "Texto directo":
-  st.subheader("Ingresa el texto de tu ensayo")
+  st.subheader("Ingresa el texto de tu ensayo, puede ser en español o directamente en inglés")
   texto = st.text_area(
       "",
       height=200,
